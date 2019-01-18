@@ -6,9 +6,7 @@ However, before that, please have the following tools installed for smooth runni
 
 # Tools
 -ffmpeg:         https://www.ffmpeg.org/download.html
-
 -mahimahi:       http://mahimahi.mit.edu/#getting
-
 -selenium:       https://pypi.python.org/packages/source/s/selenium/selenium-2.39.0.tar.gz
 
 Firstly, here are some instructions to install our server and how to run it.
