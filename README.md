@@ -24,12 +24,15 @@ Ctrl+Shift+I -> Network -> check disable cache)
 
 # Corresponding Command Prompt lines
 1.$ python2 setup.py
+
 2.$ python2 run_server.py RL 4000 1
 (RL implies protocol, and you can replace with BOLA or 
 Others. 4000 implies run time of the server in milliseconds
 And 1 implies the ID of the log file that will be saved)
+
 3.$ mm-delay 20
   $ chromium-browser
+  
 4. 100.64.0.1/test.html
 
 
