@@ -33,7 +33,6 @@ And 1 implies the ID of the log file that will be saved)
 3.$ mm-delay 20
 
 $ chromium-browser
-
 4. 100.64.0.1/test.html
 
 
